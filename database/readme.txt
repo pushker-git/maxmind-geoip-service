@@ -1,0 +1,1 @@
+Download GeoIP2 database from maxmind and keep in this location. Please change the name of the maxmind database in database.js
